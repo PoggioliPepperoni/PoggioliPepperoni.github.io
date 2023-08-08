@@ -1,0 +1,16 @@
+.center {
+    margin: auto;
+    width: 800px;
+    height: 800px;
+    border: 10px solid black;
+    background-image: url(file:///C:/Users/yanni/ChessGame/images/Chess_Board.png);
+}
+  .hide{
+    width: 0px;
+    height: 0px;
+  }
+#White_Knight_1{
+    width: 100px;
+    height: 100px;
+    background-image: url(file:///C:/Users/yanni/ChessGame/images/knight.png);
+}
